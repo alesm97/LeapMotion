@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/LeapMotionBasic.unity
+- path: Assets/Scenes/InteractionEngine.unity
   isLoaded: 1
   isActive: 1
